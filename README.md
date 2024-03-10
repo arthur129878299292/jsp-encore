@@ -1,2 +1,1 @@
-# jsp-encore
-jsp
+# jsp-encorejsp
